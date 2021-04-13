@@ -1,0 +1,15 @@
+blue_down
+blue_six
+blue_y
+green_circle
+green_seven
+green_w
+red_eight
+red_left
+red_v
+white_nine
+white_up
+white_x
+yellow_right
+yellow_z
+yellow_zero

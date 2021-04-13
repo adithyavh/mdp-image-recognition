@@ -1,0 +1,607 @@
+Last login: Fri Mar 19 08:09:36 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Adithyas-MacBook-Pro:~ adithya$ source activate py36
+(py36) Adithyas-MacBook-Pro:~ adithya$ cd development/mdp-socket/
+(py36) Adithyas-MacBook-Pro:mdp-socket adithya$ python s.py
+Socket created
+Socket bind complete
+Socket now listening
+[ROBOT-LOC]	1, 1, 3
+payload_size: 4
+[LOG]		msg_size: 52298
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 1, 0
+payload_size: 4
+[LOG]		msg_size: 70232
+[PREDICTION]	blue_y	0.9882636666297913	-5	254	136	160
+[LOCATION]	0.0, 1.0
+[IMG-LOC]	0, 9, 0
+
+[LOG]		History Appended
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}}
+----------
+[ROBOT-LOC]	7, 2, 0
+payload_size: 4
+[LOG]		msg_size: 72717
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 3, 0
+payload_size: 4
+[LOG]		msg_size: 73344
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 4, 0
+payload_size: 4
+[LOG]		msg_size: 74861
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 5, 0
+payload_size: 4
+[LOG]		msg_size: 73110
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 5, 3
+payload_size: 4
+[LOG]		msg_size: 46322
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	8, 5, 3
+payload_size: 4
+[LOG]		msg_size: 47222
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	9, 5, 3
+payload_size: 4
+[LOG]		msg_size: 47545
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	10, 5, 3
+payload_size: 4
+[LOG]		msg_size: 49084
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 5, 3
+payload_size: 4
+[LOG]		msg_size: 49142
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 5, 3
+payload_size: 4
+[LOG]		msg_size: 50798
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 5, 2
+payload_size: 4
+[LOG]		msg_size: 71021
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 4, 2
+payload_size: 4
+[LOG]		msg_size: 72278
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 3, 2
+payload_size: 4
+[LOG]		msg_size: 70609
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 2, 2
+payload_size: 4
+[LOG]		msg_size: 67902
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 2
+payload_size: 4
+[LOG]		msg_size: 69523
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 1
+payload_size: 4
+[LOG]		msg_size: 73974
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 1, 1
+payload_size: 4
+[LOG]		msg_size: 74066
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 1, 0
+payload_size: 4
+[LOG]		msg_size: 70892
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 2, 0
+payload_size: 4
+[LOG]		msg_size: 72441
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 2, 3
+payload_size: 4
+[LOG]		msg_size: 50293
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 2, 3
+payload_size: 4
+[LOG]		msg_size: 50932
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 2, 2
+payload_size: 4
+[LOG]		msg_size: 69379
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 2
+payload_size: 4
+[LOG]		msg_size: 73276
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 0
+payload_size: 4
+[LOG]		msg_size: 72765
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 1
+payload_size: 4
+[LOG]		msg_size: 73106
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 1, 0
+payload_size: 4
+[LOG]		msg_size: 74913
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 2, 0
+payload_size: 4
+[LOG]		msg_size: 73384
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 3, 0
+payload_size: 4
+[LOG]		msg_size: 74139
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 4, 0
+payload_size: 4
+[LOG]		msg_size: 74682
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 5, 0
+payload_size: 4
+[LOG]		msg_size: 75440
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 5, 3
+payload_size: 4
+[LOG]		msg_size: 50780
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	13, 5, 3
+payload_size: 4
+[LOG]		msg_size: 52357
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	14, 5, 3
+payload_size: 4
+[LOG]		msg_size: 53859
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	15, 5, 3
+payload_size: 4
+[LOG]		msg_size: 54730
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 5, 3
+payload_size: 4
+[LOG]		msg_size: 55582
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 5, 2
+payload_size: 4
+[LOG]		msg_size: 76148
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 4, 2
+payload_size: 4
+[LOG]		msg_size: 79060
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 3, 2
+payload_size: 4
+[LOG]		msg_size: 78937
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 2, 2
+payload_size: 4
+[LOG]		msg_size: 79072
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 1, 2
+payload_size: 4
+[LOG]		msg_size: 79752
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 1, 0
+payload_size: 4
+[LOG]		msg_size: 77529
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 2, 0
+payload_size: 4
+[LOG]		msg_size: 78604
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 3, 0
+payload_size: 4
+[LOG]		msg_size: 78843
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 4, 0
+payload_size: 4
+[LOG]		msg_size: 79476
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 5, 0
+payload_size: 4
+[LOG]		msg_size: 81249
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 5, 1
+payload_size: 4
+[LOG]		msg_size: 70985
+[PREDICTION]	red_eight	0.974715530872345	4	256	107	158
+[LOCATION]	0.0, 1.0
+[IMG-LOC]	7, 18, 1
+
+[LOG]		History Appended
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}, 'red_eight': {'conf': 0.974715530872345, 'i_x': 7, 'i_y': 18, 'i_direction': 1, 'num_blocks': 0.0, 'image_path': 'saved_images/image_48.jpg'}}
+----------
+[ROBOT-LOC]	16, 5, 1
+payload_size: 4
+[LOG]		msg_size: 73724
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 5, 0
+payload_size: 4
+[LOG]		msg_size: 78568
+[PREDICTION]	red_eight	0.9125759601593018	615	260	63	112
+[LOCATION]	100.0, 100.0
+[IMG-LOC]	100, 100, 0
+
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}, 'red_eight': {'conf': 0.974715530872345, 'i_x': 7, 'i_y': 18, 'i_direction': 1, 'num_blocks': 0.0, 'image_path': 'saved_images/image_48.jpg'}}
+[SKIPPED]	History Unchanged - red_eight 0.9125759601593018 worse than previous
+----------
+[ROBOT-LOC]	16, 6, 0
+payload_size: 4
+[LOG]		msg_size: 79212
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 7, 0
+payload_size: 4
+[LOG]		msg_size: 77535
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 8, 0
+payload_size: 4
+[LOG]		msg_size: 75694
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 9, 0
+payload_size: 4
+[LOG]		msg_size: 79256
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 9, 3
+payload_size: 4
+[LOG]		msg_size: 61896
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 9, 3
+payload_size: 4
+[LOG]		msg_size: 61772
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 9, 0
+payload_size: 4
+[LOG]		msg_size: 81060
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 10, 0
+payload_size: 4
+[LOG]		msg_size: 80610
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 11, 0
+payload_size: 4
+[LOG]		msg_size: 80596
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 12, 0
+payload_size: 4
+[LOG]		msg_size: 79141
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 13, 0
+payload_size: 4
+[LOG]		msg_size: 77552
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 13, 3
+payload_size: 4
+[LOG]		msg_size: 61929
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	18, 13, 3
+payload_size: 4
+[LOG]		msg_size: 63702
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	18, 13, 2
+payload_size: 4
+[LOG]		msg_size: 80235
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	18, 12, 2
+payload_size: 4
+[LOG]		msg_size: 80207
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	18, 12, 1
+payload_size: 4
+[LOG]		msg_size: 82377
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 12, 1
+payload_size: 4
+[LOG]		msg_size: 83119
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 12, 0
+payload_size: 4
+[LOG]		msg_size: 75635
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 13, 0
+payload_size: 4
+[LOG]		msg_size: 75440
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	17, 13, 2
+payload_size: 4
+[LOG]		msg_size: 79338
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 13, 2
+payload_size: 4
+[LOG]		msg_size: 79627
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 12, 2
+payload_size: 4
+[LOG]		msg_size: 79856
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	16, 12, 1
+payload_size: 4
+[LOG]		msg_size: 81656
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	15, 12, 1
+payload_size: 4
+[LOG]		msg_size: 82354
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	14, 12, 1
+payload_size: 4
+[LOG]		msg_size: 80633
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	13, 12, 1
+payload_size: 4
+[LOG]		msg_size: 78588
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	12, 12, 1
+payload_size: 4
+[LOG]		msg_size: 79738
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 12, 1
+payload_size: 4
+[LOG]		msg_size: 79512
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 12, 0
+payload_size: 4
+[LOG]		msg_size: 71729
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	11, 13, 0
+payload_size: 4
+[LOG]		msg_size: 72129
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	9, 13, 2
+payload_size: 4
+[LOG]		msg_size: 76003
+[PREDICTION]	red_v	0.9392501711845398	4	262	108	147
+[LOCATION]	0.0, 1.0
+[IMG-LOC]	14, 7, 2
+
+[LOG]		History Appended
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}, 'red_eight': {'conf': 0.974715530872345, 'i_x': 7, 'i_y': 18, 'i_direction': 1, 'num_blocks': 0.0, 'image_path': 'saved_images/image_48.jpg'}, 'red_v': {'conf': 0.9392501711845398, 'i_x': 14, 'i_y': 7, 'i_direction': 2, 'num_blocks': 0.0, 'image_path': 'saved_images/image_81.jpg'}}
+----------
+[ROBOT-LOC]	9, 12, 2
+payload_size: 4
+[LOG]		msg_size: 78928
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	9, 12, 1
+payload_size: 4
+[LOG]		msg_size: 76501
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	8, 12, 1
+payload_size: 4
+[LOG]		msg_size: 75203
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	7, 12, 1
+payload_size: 4
+[LOG]		msg_size: 76805
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	6, 12, 1
+payload_size: 4
+[LOG]		msg_size: 76009
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	6, 12, 2
+payload_size: 4
+[LOG]		msg_size: 72505
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	6, 11, 2
+payload_size: 4
+[LOG]		msg_size: 75220
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	6, 11, 1
+payload_size: 4
+[LOG]		msg_size: 74271
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	5, 11, 1
+payload_size: 4
+[LOG]		msg_size: 74749
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	4, 11, 1
+payload_size: 4
+[LOG]		msg_size: 77287
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	3, 11, 1
+payload_size: 4
+[LOG]		msg_size: 77543
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 1
+payload_size: 4
+[LOG]		msg_size: 76446
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 0
+payload_size: 4
+[LOG]		msg_size: 75455
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 12, 0
+payload_size: 4
+[LOG]		msg_size: 73633
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 12, 3
+payload_size: 4
+[LOG]		msg_size: 52478
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	3, 12, 3
+payload_size: 4
+[LOG]		msg_size: 53157
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	3, 12, 2
+payload_size: 4
+[LOG]		msg_size: 71079
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	3, 11, 2
+payload_size: 4
+[LOG]		msg_size: 73289
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	3, 11, 1
+payload_size: 4
+[LOG]		msg_size: 81581
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 1
+payload_size: 4
+[LOG]		msg_size: 82275
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 2
+payload_size: 4
+[LOG]		msg_size: 70064
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 1
+payload_size: 4
+[LOG]		msg_size: 85347
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 11, 1
+payload_size: 4
+[LOG]		msg_size: 92090
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 11, 0
+payload_size: 4
+[LOG]		msg_size: 74096
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 12, 0
+payload_size: 4
+[LOG]		msg_size: 74569
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 12, 3
+payload_size: 4
+[LOG]		msg_size: 52653
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 12, 3
+payload_size: 4
+[LOG]		msg_size: 52123
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 12, 2
+payload_size: 4
+[LOG]		msg_size: 70511
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 2
+payload_size: 4
+[LOG]		msg_size: 60723
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	2, 11, 1
+payload_size: 4
+[LOG]		msg_size: 73996
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 11, 1
+payload_size: 4
+[LOG]		msg_size: 78938
+NO IMAGE DETECTED
+----------
+[ROBOT-LOC]	1, 11, 3
+payload_size: 4
+[LOG]		msg_size: 54230
+[PREDICTION]	blue_six	0.9442087411880493	664	264	40	78
+[LOCATION]	100.0, 100.0
+[IMG-LOC]	100, 100, 3
+
+[LOG]		History Appended
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}, 'red_eight': {'conf': 0.974715530872345, 'i_x': 7, 'i_y': 18, 'i_direction': 1, 'num_blocks': 0.0, 'image_path': 'saved_images/image_48.jpg'}, 'red_v': {'conf': 0.9392501711845398, 'i_x': 14, 'i_y': 7, 'i_direction': 2, 'num_blocks': 0.0, 'image_path': 'saved_images/image_81.jpg'}, 'blue_six': {'conf': 0.9442087411880493, 'i_x': 100, 'i_y': 100, 'i_direction': 3, 'num_blocks': 100.0, 'image_path': 'saved_images/image_113.jpg'}}
+----------
+^C
+[CLOSED] Keyboard Interrupt
+
+[SAVED]	Joined Image Saved
+{'blue_y': {'conf': 0.9882636666297913, 'i_x': 0, 'i_y': 9, 'i_direction': 0, 'num_blocks': 0.0, 'image_path': 'saved_images/image_2.jpg'}, 'red_eight': {'conf': 0.974715530872345, 'i_x': 7, 'i_y': 18, 'i_direction': 1, 'num_blocks': 0.0, 'image_path': 'saved_images/image_48.jpg'}, 'red_v': {'conf': 0.9392501711845398, 'i_x': 14, 'i_y': 7, 'i_direction': 2, 'num_blocks': 0.0, 'image_path': 'saved_images/image_81.jpg'}, 'blue_six': {'conf': 0.9442087411880493, 'i_x': 100, 'i_y': 100, 'i_direction': 3, 'num_blocks': 100.0, 'image_path': 'saved_images/image_113.jpg'}}
+(py36) Adithyas-MacBook-Pro:mdp-socket adithya$ 
